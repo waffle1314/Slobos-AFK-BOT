@@ -8,7 +8,7 @@
   "server": {
     "ip": "SP12-Od51.aternos.me",
     "port": 26400,
-    "version": "1.21.1"
+    "version": "26.1.2"
   },
   "position": {
     "enabled": true,
